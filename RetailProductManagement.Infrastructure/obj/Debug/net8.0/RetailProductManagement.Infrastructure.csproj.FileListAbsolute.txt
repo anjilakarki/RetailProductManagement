@@ -1,0 +1,17 @@
+/Users/anjila/Desktop/RetailProductManagement/RetailProductManagement.Infrastructure/bin/Debug/net8.0/RetailProductManagement.Infrastructure.deps.json
+/Users/anjila/Desktop/RetailProductManagement/RetailProductManagement.Infrastructure/bin/Debug/net8.0/RetailProductManagement.Infrastructure.runtimeconfig.json
+/Users/anjila/Desktop/RetailProductManagement/RetailProductManagement.Infrastructure/bin/Debug/net8.0/RetailProductManagement.Infrastructure.dll
+/Users/anjila/Desktop/RetailProductManagement/RetailProductManagement.Infrastructure/bin/Debug/net8.0/RetailProductManagement.Infrastructure.pdb
+/Users/anjila/Desktop/RetailProductManagement/RetailProductManagement.Infrastructure/bin/Debug/net8.0/RetailProductManagement.Core.dll
+/Users/anjila/Desktop/RetailProductManagement/RetailProductManagement.Infrastructure/bin/Debug/net8.0/RetailProductManagement.Core.pdb
+/Users/anjila/Desktop/RetailProductManagement/RetailProductManagement.Infrastructure/obj/Debug/net8.0/RetailProductManagement.Infrastructure.csproj.AssemblyReference.cache
+/Users/anjila/Desktop/RetailProductManagement/RetailProductManagement.Infrastructure/obj/Debug/net8.0/RetailProductManagement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anjila/Desktop/RetailProductManagement/RetailProductManagement.Infrastructure/obj/Debug/net8.0/RetailProductManagement.Infrastructure.AssemblyInfoInputs.cache
+/Users/anjila/Desktop/RetailProductManagement/RetailProductManagement.Infrastructure/obj/Debug/net8.0/RetailProductManagement.Infrastructure.AssemblyInfo.cs
+/Users/anjila/Desktop/RetailProductManagement/RetailProductManagement.Infrastructure/obj/Debug/net8.0/RetailProductManagement.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/anjila/Desktop/RetailProductManagement/RetailProductManagement.Infrastructure/obj/Debug/net8.0/RetailPr.C0DB1311.Up2Date
+/Users/anjila/Desktop/RetailProductManagement/RetailProductManagement.Infrastructure/obj/Debug/net8.0/RetailProductManagement.Infrastructure.dll
+/Users/anjila/Desktop/RetailProductManagement/RetailProductManagement.Infrastructure/obj/Debug/net8.0/refint/RetailProductManagement.Infrastructure.dll
+/Users/anjila/Desktop/RetailProductManagement/RetailProductManagement.Infrastructure/obj/Debug/net8.0/RetailProductManagement.Infrastructure.pdb
+/Users/anjila/Desktop/RetailProductManagement/RetailProductManagement.Infrastructure/obj/Debug/net8.0/RetailProductManagement.Infrastructure.genruntimeconfig.cache
+/Users/anjila/Desktop/RetailProductManagement/RetailProductManagement.Infrastructure/obj/Debug/net8.0/ref/RetailProductManagement.Infrastructure.dll

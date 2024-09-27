@@ -1,0 +1,14 @@
+/Users/anjila/Desktop/RetailProductManagement/RetailProductManagement.Core/bin/Debug/net8.0/RetailProductManagement.Core.deps.json
+/Users/anjila/Desktop/RetailProductManagement/RetailProductManagement.Core/bin/Debug/net8.0/RetailProductManagement.Core.runtimeconfig.json
+/Users/anjila/Desktop/RetailProductManagement/RetailProductManagement.Core/bin/Debug/net8.0/RetailProductManagement.Core.dll
+/Users/anjila/Desktop/RetailProductManagement/RetailProductManagement.Core/bin/Debug/net8.0/RetailProductManagement.Core.pdb
+/Users/anjila/Desktop/RetailProductManagement/RetailProductManagement.Core/obj/Debug/net8.0/RetailProductManagement.Core.csproj.AssemblyReference.cache
+/Users/anjila/Desktop/RetailProductManagement/RetailProductManagement.Core/obj/Debug/net8.0/RetailProductManagement.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anjila/Desktop/RetailProductManagement/RetailProductManagement.Core/obj/Debug/net8.0/RetailProductManagement.Core.AssemblyInfoInputs.cache
+/Users/anjila/Desktop/RetailProductManagement/RetailProductManagement.Core/obj/Debug/net8.0/RetailProductManagement.Core.AssemblyInfo.cs
+/Users/anjila/Desktop/RetailProductManagement/RetailProductManagement.Core/obj/Debug/net8.0/RetailProductManagement.Core.csproj.CoreCompileInputs.cache
+/Users/anjila/Desktop/RetailProductManagement/RetailProductManagement.Core/obj/Debug/net8.0/RetailProductManagement.Core.dll
+/Users/anjila/Desktop/RetailProductManagement/RetailProductManagement.Core/obj/Debug/net8.0/refint/RetailProductManagement.Core.dll
+/Users/anjila/Desktop/RetailProductManagement/RetailProductManagement.Core/obj/Debug/net8.0/RetailProductManagement.Core.pdb
+/Users/anjila/Desktop/RetailProductManagement/RetailProductManagement.Core/obj/Debug/net8.0/RetailProductManagement.Core.genruntimeconfig.cache
+/Users/anjila/Desktop/RetailProductManagement/RetailProductManagement.Core/obj/Debug/net8.0/ref/RetailProductManagement.Core.dll

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "0GWPGCQCHnAjQSfmt32uDjKOstA/njSR2Cj0iaBRbiM=",
+  "Source": "RetailProductManagement.API",
+  "BasePath": "_content/RetailProductManagement.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
